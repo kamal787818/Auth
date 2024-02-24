@@ -15,3 +15,5 @@ Step 2. Add the dependency
 dependencies {
 	        implementation 'com.github.kamal787818:paybyapisa:Tag'
 	}
+  OR
+  [![](https://jitpack.io/v/kamal787818/paybyapisa.svg)](https://jitpack.io/#kamal787818/paybyapisa)
