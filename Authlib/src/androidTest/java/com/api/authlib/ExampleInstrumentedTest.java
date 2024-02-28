@@ -1,4 +1,4 @@
-package com.apis;
+package com.api.authlib;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.apis.test", appContext.getPackageName());
+        assertEquals("com.api.authlib.test", appContext.getPackageName());
     }
 }

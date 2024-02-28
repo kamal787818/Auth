@@ -16,3 +16,4 @@ dependencyResolutionManagement {
 rootProject.name = "paybyapis"
 include ':app'
 include ':apis'
+include ':Authlib'

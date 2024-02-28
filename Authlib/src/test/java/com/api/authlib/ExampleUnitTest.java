@@ -1,4 +1,4 @@
-package com.apis;
+package com.api.authlib;
 
 import org.junit.Test;
 
